@@ -22,7 +22,7 @@
 
 ## Overview
 
-doc inside index
+doc inside index 1
 This is a loopback-next extension for adding authentication layer to a REST application in loopback 4.
 This extension is based on the implementation guidelines provided on official [@loopback/authentication](https://github.com/strongloop/loopback-next/blob/master/packages/authentication/README.md) page.
 It provides support for seven passport based strategies.
