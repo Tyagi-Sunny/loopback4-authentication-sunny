@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: loopback4-authentication
+  name: loopback4-authentication-sunny
   annotations:
-    github.com/project-slug: sourcefuse/loopback4-authentication
+    github.com/project-slug: sourcefuse/loopback4-authentication-sunny
     backstage.io/techdocs-ref: dir:.
   namespace: arc
   description: A LoopBack 4 extension for authentication features. Oauth strategies supported.
