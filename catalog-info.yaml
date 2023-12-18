@@ -4,7 +4,7 @@ metadata:
   name: loopback4-authentication-sunny
   annotations:
     github.com/project-slug: sourcefuse/loopback4-authentication-sunny
-    backstage.io/techdocs-ref: url:https://github.com/sourcefuse/arc-docs/tree/main
+    backstage.io/techdocs-ref: url:https://github.com/sourcefuse/arc-docs/tree/main/docs/arc-iac-docs
   namespace: arc
   description: A LoopBack 4 extension for authentication features. Oauth strategies supported.
   tags:
